@@ -6,7 +6,7 @@ A modern React-based web application that allows users to explore movies and TV 
 
 ## 🚀 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 Not published yet
 
 ---
 
